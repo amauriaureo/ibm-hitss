@@ -131,7 +131,7 @@ var centrosFuncionais = {
     "PVO FQ MD":"Enviar para agendamento. Pois centro funcional será executado após a conclusão da atividade.",
     "PVO FQ MT":"Enviar para agendamento. Pois centro funcional será executado após a conclusão da atividade.",
     "RBO RB MD":"Enviar para agendamento. Pois centro funcional será executado após a conclusão da atividade.",
-    "RBO RB MT":"Enviar para agendamento. Pois centro funcional será executado após a conclusão da atividade.",
+    "RBO RB MT":"Precisa executar ANTES de enviar para agendamento (ou estar com PEND EXT: 10, 11, 19, 21, 23 ou 42)",
     "RCE AM AT":"Enviar para agendamento. Pois centro funcional será executado após a conclusão da atividade.",
     "RCE AM MT":"Enviar para agendamento. Pois centro funcional será executado após a conclusão da atividade.",
     "RJO AC MT":"Precisa executar ANTES de enviar para agendamento (ou estar com PEND EXT: 10, 11, 19, 21, 23 ou 42)",
